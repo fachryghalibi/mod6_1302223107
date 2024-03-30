@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tpmod6_1302223107\\tpmod6_1302223107\\tpmod6_1302223107.csproj": {}
+    "D:\\mod6_1302223107\\tpmod6_1302223107\\tpmod6_1302223107.csproj": {}
   },
   "projects": {
-    "D:\\tpmod6_1302223107\\tpmod6_1302223107\\tpmod6_1302223107.csproj": {
+    "D:\\mod6_1302223107\\tpmod6_1302223107\\tpmod6_1302223107.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tpmod6_1302223107\\tpmod6_1302223107\\tpmod6_1302223107.csproj",
+        "projectUniqueName": "D:\\mod6_1302223107\\tpmod6_1302223107\\tpmod6_1302223107.csproj",
         "projectName": "tpmod6_1302223107",
-        "projectPath": "D:\\tpmod6_1302223107\\tpmod6_1302223107\\tpmod6_1302223107.csproj",
+        "projectPath": "D:\\mod6_1302223107\\tpmod6_1302223107\\tpmod6_1302223107.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "D:\\tpmod6_1302223107\\tpmod6_1302223107\\obj\\",
+        "outputPath": "D:\\mod6_1302223107\\tpmod6_1302223107\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
